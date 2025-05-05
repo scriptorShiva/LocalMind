@@ -2,6 +2,11 @@
 
 **LocalMind** is a fully local, privacy-focused semantic chat system built using Retrieval-Augmented Generation (RAG). It enables intelligent Q&A over your documents (e.g., PDFs) with zero external API usage, no internet dependency, and full data control.
 
+![Ingesting](https://github.com/user-attachments/assets/81bdc56f-89e6-4158-b849-0d0c612aecf7)
+![worker](https://github.com/user-attachments/assets/999331e3-a4f9-4a78-8e9c-f258e12cebf5)
+![chat](https://github.com/user-attachments/assets/5cddee2b-5ab0-4734-913b-446b0703b0de)
+
+
 ---
 
 ## ⚙️ Tech Stack
