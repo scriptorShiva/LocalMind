@@ -1,0 +1,13 @@
+version: "2.35.1"
+services:
+  #Valkey : reddis replacement as its fully open source
+  valkey:
+    image: valkey/valkey
+    ports:
+      - 6380:6379
+
+  #qdrant : Vector Database
+  qdrant:
+    image: qdrant/qdrant
+    ports:
+      - 6333:6333
